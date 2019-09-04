@@ -1,0 +1,19 @@
+{
+  "name": "youtube-sbv",
+  "version": "0.0.1",
+  "description": "An extremely basic bookmarklet-type app for fixing the timings on a YouTube-generated sbv file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawaltconley/youtube-sbv.git"
+  },
+  "author": "Dylan Awalt-Conley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dawaltconley/youtube-sbv/issues"
+  },
+  "homepage": "https://github.com/dawaltconley/youtube-sbv#readme"
+}
