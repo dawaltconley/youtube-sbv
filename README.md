@@ -4,7 +4,7 @@ An extremely basic bookmarklet-type app for fixing the timings on a YouTube-gene
 
 ## How to use
 
-Create a new bookmark with the contents of bookmarklet.js as the URL.
+Create a new bookmark with [the contents of bookmarklet.js](https://raw.githubusercontent.com/dawaltconley/youtube-sbv/master/bookmarklet.js) as the URL.
 
 Click the bookmark on the page of the YouTube video you want to set timings for.
 
