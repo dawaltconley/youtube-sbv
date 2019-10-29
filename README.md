@@ -4,7 +4,9 @@ An extremely basic bookmarklet-type app for fixing the timings on a YouTube-gene
 
 ## How to use
 
-Copy the contents of index.js into the console on the page of the YouTube video you want to set timings for.
+Create a new bookmark with the contents of bookmarklet.js as the URL.
+
+Click the bookmark on the page of the YouTube video you want to set timings for.
 
 Upload a sbv file to the prompt and click submit. When you submit, the video will play from the beginning, and you can set the timings for captions based on the video's playhead.
 
